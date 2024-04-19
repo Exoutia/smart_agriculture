@@ -7,9 +7,9 @@
 
 #define DHTTYPE DHT11
 #define DHTPIN 13
-#define BLYNK_TEMPLATE_ID "TMPL3KuShXg8q"
+#define BLYNK_TEMPLATE_ID "TMPL3Z3nJxn27"
 #define BLYNK_TEMPLATE_NAME "Smart Irrigation"
-#define BLYNK_AUTH_TOKEN "G4uIeFh6aTkuhG4TOMM2JDwf5DTnwOIP"
+#define BLYNK_AUTH_TOKEN "Jw0rHWQxeu9T5c_Bd6AS44OD-sX4X7Ba"
 
 #define BLYNK_POINT Serial
 
